@@ -10,6 +10,7 @@ To use the pizza-hunt app, users will go to https://pizza-hunt-hmailahn.herokuap
 * MongoDB
 * Express.js
 * node.js
+* mongoose
 
 ## Screenshot
 
