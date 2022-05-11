@@ -1,5 +1,16 @@
 # pizza-hunt
 
+![GitHub last commit](https://img.shields.io/github/last-commit/hmailahn/pizza-hunt)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hmailahn/pizza-hunt)  ![GitHub watchers](https://img.shields.io/github/watchers/hmailahn/pizza-hunt?label=Watch&style=social)  ![GitHub top language](https://img.shields.io/github/languages/top/hmailahn/pizza-hunt)
+
+## Table of Contents:
+  1. [Description](#Description)
+  2. [Usage](#Usage)
+  3. [Built-With](#Built-With)
+  4. [Screenshot](#Screenshot)
+  5. [Repository](#Repository)
+  6. [Deployed-Project](#Deployed-Project)
+  7. [Contact-Me](#Contact-Me)
+
 ## Description
 Pizza hunt is a social app for pizza lovers to create a pizza and comment on other pizzas. 
 
@@ -9,11 +20,23 @@ To use the pizza-hunt app, users will go to https://pizza-hunt-hmailahn.herokuap
 ## Built With
 * MongoDB
 * Express.js
-* node.js
+* Node.js
 * mongoose
+* HTML
+* CSS
 
 ## Screenshot
 
 
+# Repository
+https://github.com/hmailahn/pizza-hunt
+
 ## Deployed Project
 https://pizza-hunt-hmailahn.herokuapp.com/
+
+## Contact-Me
+Questions? 
+<details>
+    <summary>Contact</summary>
+    mailahnheidi@gmail.com <br>
+</details>
