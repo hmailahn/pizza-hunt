@@ -26,9 +26,10 @@ To use the pizza-hunt app, users will go to https://pizza-hunt-hmailahn.herokuap
 * CSS
 
 ## Screenshot
+![image](https://github.com/hmailahn/pizza-hunt/blob/main/screencapture-pizza-hunt-hmailahn-herokuapp-2022-05-11-08_50_51.png)
+!image](https://github.com/hmailahn/pizza-hunt/blob/main/screencapture-pizza-hunt-hmailahn-herokuapp-pizza-2022-05-11-08_51_36.png)
 
-
-# Repository
+## Repository
 https://github.com/hmailahn/pizza-hunt
 
 ## Deployed Project
